@@ -12,6 +12,9 @@ CIRCUIT DIAGRAM
 
 ![image](https://github.com/user-attachments/assets/0b0fa31d-8770-47a6-99a6-edabf8e4fb58)
 
+<img width="1033" height="711" alt="image" src="https://github.com/user-attachments/assets/10d7908b-3ecb-4826-8647-f103c9ab828d" />
+
+<img width="1034" height="711" alt="image" src="https://github.com/user-attachments/assets/0ddc44b5-b118-4948-980e-9f48ef52b3d6" />
 
 PROCEDURE: -
 I. Connect the multimeter at the output of kit..
